@@ -447,6 +447,9 @@ h2{
     height: 80%;
 }
 
+.form-wrapper input[type=text], input[type=email] , textarea{
+    color: var(--color-primary);
+}
 input, textarea{
     display: block;
     outline: 0;
